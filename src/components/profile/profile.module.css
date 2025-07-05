@@ -1,0 +1,14 @@
+.profilePicture {
+  border-radius: 50%
+}
+
+.profileName {
+  margin: 0;
+  padding-top: 20px;
+  font-size: 40px;
+}
+
+.profileBio {
+  margin: 0;
+  font-size: 20px;
+}
