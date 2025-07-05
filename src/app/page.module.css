@@ -2,3 +2,9 @@
   height: 100%;
   background-color: rgb(231, 174, 15);
 }
+
+.buttonContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
